@@ -1,0 +1,6 @@
+[submodule "employee-management-system-with-angular-python-and-fastapi-backend"]
+	path = employee-management-system-with-angular-python-and-fastapi-backend
+	url = https://github.com/thubane96/Employee-Management-System-With-Angular-Python-and-FastAPI-BackEnd.git
+[submodule "Employee-Management-System-With-Angular-Python-and-FastAPI-FrontEnd"]
+	path = Employee-Management-System-With-Angular-Python-and-FastAPI-FrontEnd
+	url = https://github.com/thubane96/Employee-Management-System-With-Angular-Python-and-FastAPI-FrontEnd.git
